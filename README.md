@@ -21,7 +21,7 @@
 
 <p align="center">
   <b>Electrical & Computer Engineering Student @ University of Windsor</b><br/>
-  Passionate about <b>antenna design</b>, <b>machine learning</b>, and <b>full-stack development</b>.
+  Passionate about <b>embedded systems</b>, <b>machine learning</b>, and <b>full-stack development</b>.
 </p>
 
 ---
