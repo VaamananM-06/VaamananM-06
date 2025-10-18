@@ -41,7 +41,7 @@
 
 - 🎓 **Electrical & Computer Engineering Undergrad** @ University of Windsor  
 - 🚗 Currently researching **GNSS and radar antennas** for automotive applications (Ford-sponsored)  
-- 💻 Interested in **AI/ML, embedded systems, RF design, and full-stack projects**  
+- 💻 Interested in **AI/ML, embedded systems, and full-stack projects**  
 - ⚡ Always building, learning, and improving — from antennas to algorithms  
 - 📬 Reach me: **[mugunthv@uwindsor.ca](mailto:mugunthv@uwindsor.ca)**  
 
